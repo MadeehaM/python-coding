@@ -1,0 +1,6 @@
+File in write mode- 
+I am a PenguinFile in append mode- 
+I am 1 year old 
+
+I like food
+blackblack
